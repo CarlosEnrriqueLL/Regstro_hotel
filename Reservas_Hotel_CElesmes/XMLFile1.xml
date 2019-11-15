@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<catalogo>
+  <lugar id="1" name="Bogota"></lugar>
+  <lugar id="2" name="Cali"></lugar>
+  <lugar id="3" name="Medellin"></lugar>
+  <lugar id="3" name="Villavicencio"></lugar>
+  <lugar id="3" name="Barranquilla"></lugar>
+  <lugar id="3" name="Pereira"></lugar>
+</catalogo>
